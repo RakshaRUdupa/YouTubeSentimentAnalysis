@@ -1,0 +1,8 @@
+pandas
+matplotlib
+wordcloud
+vaderSentiment
+transformers
+torch
+tf-keras
+google-api-python-client
